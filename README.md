@@ -49,7 +49,7 @@ The model learns that:
 …should still map to similar embeddings if they originate from the same biological cell.
 
 <p align="center">
-  <img src="./documentation/example_brainstorming.png" alt="Gene-DINO preprocessing views" width="560" />
+  <img src="./content/documentation/example_brainstorming.png" alt="Gene-DINO preprocessing views" width="560" />
 </p>
 
 ---
